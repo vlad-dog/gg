@@ -18,7 +18,7 @@
     "install": "^0.13.0",
     "moment": "^2.24.0",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.3.3",
     "opusscript": "^0.0.7",
     "quick.db": "^7.0.0-b22",
